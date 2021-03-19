@@ -1,0 +1,6 @@
+config.ini
+.idea
+/*.mbox
+/*.tsv
+/venv
+/mailman_archive_index.html
